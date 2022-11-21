@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(blue, black);
+    background: url(images/Davi.jpg);
     color: #ffffff;
 }
 
@@ -102,6 +102,9 @@ a {
     background: red;
     transition: width 2s, height 2s, transform 2s;
     transform: rotate(360deg);
+}
+#no{
+    margin-top: -10px;
 }
 
 /* 
